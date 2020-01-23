@@ -9,4 +9,5 @@ We provide an automated toolkit to scan application binaries and solve where to 
 
 -----
 
-Our code is currently in testing, so as it and our documentation become available, we will upload it to this site.
+22 Jan 2020
+I found a couple of inconsistencies in code that was published here so I've removed it for now. As soon as the next phase of code is finished, I'll begin uploading the new components. 
